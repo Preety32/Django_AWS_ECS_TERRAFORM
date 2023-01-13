@@ -57,6 +57,8 @@ Now at the web-browser you will see django page at http://127.0.0.1:8000/
 
 ### 11. Again make some changes in code as given in blog & to apply these changs use "terraform apply"
 ![Screenshot from 2023-01-14 00-17-10](https://user-images.githubusercontent.com/115537106/212396060-6e1eabd7-9005-45b7-b3bf-2a02bca24531.png)
+![Screenshot from 2023-01-14 00-19-05](https://user-images.githubusercontent.com/115537106/212396451-7ce25773-8c58-41f4-bb9d-e0d175f2ead1.png)
+![Screenshot from 2023-01-14 00-19-11](https://user-images.githubusercontent.com/115537106/212396471-3e36d51f-dfad-4060-b23f-4bac98623674.png)
 
 
 ## Static Files

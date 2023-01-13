@@ -28,6 +28,8 @@ Now at the web-browser you will see django page at http://127.0.0.1:8000/
 
 ### 5. you have to create many .tf files as given in the blog. after that you have to do terraform plan & terraform init.
 ![Screenshot from 2023-01-12 15-10-06](https://user-images.githubusercontent.com/115537106/212391925-6c168862-faa2-4031-83f8-c1f94a4185f7.png)
+![Screenshot from 2023-01-14 00-20-26](https://user-images.githubusercontent.com/115537106/212396783-1880dc55-93b6-4df9-aabf-301e62c65763.png)
+
 
 ## Django Check
 

@@ -2,6 +2,12 @@
 
 This Project is inspired by this [Blog](https://testdriven.io/blog/deploying-django-to-ecs-with-terraform/#ecs)
 
+This is the first [Video](https://shorthillstech-my.sharepoint.com/:v:/p/kapil_jain/EfE3J_aJmp9NtK_NBf-5fjUBukqDNSQbGlbW1PUUXYxIEQ?e=SalXs9) of this project.
+
+This is the second [video](https://shorthillstech-my.sharepoint.com/:v:/p/kapil_jain/EV1Y0BQjWU9Enw5urXjn4A4Bc7sK1VnocKeiq0Wuvz0E0w?e=E4MKK5) of this project.
+
+This is the third [video](https://shorthillstech-my.sharepoint.com/:v:/p/kapil_jain/EZ5sbkXU-HpHkTXfiv84ppcBpZ4RkqAxUb_ECen1Xzzv0w?e=KyHUwp) of this project.
+
 all the codes & steps are given in the blog.
 
 There are following steps in this project which you have to follow:
